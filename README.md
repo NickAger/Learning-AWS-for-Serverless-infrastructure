@@ -1,4 +1,4 @@
-See also [associated wiki](/NickAger/LearningAWS/wiki)
+See also [associated wiki](https://github.com/NickAger/LearningAWS/wiki)
 
 # LearningAWS for Serverless infrastructure
 
