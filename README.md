@@ -10,6 +10,7 @@
 * [Haskell on AWS Lambda](https://www.agileand.me/haskell-aws-lambda/)
 * [Qmuli - Serverless framework for Haskell](https://github.com/qmuli/qmuli/)
 * [Haskell EDSL and type-checker for AWS CloudFormation templates](https://github.com/frontrowed/stratosphere)
+* [Fugue - Jasper Van der Jeugt works here](https://fugue.co) - https://skillsmatter.com/skillscasts/9879-an-informal-guide-to-better-compiler-errors-jasper-van-der-jeugt
 
 # GraphQL
 
