@@ -9,6 +9,13 @@
 * [Haskell on AWS Lambda](https://www.agileand.me/haskell-aws-lambda/)
 * [Qmuli - Serverless framework for Haskell](https://github.com/qmuli/qmuli/)
 
+# GraphQL
+
+* [GraphQL with the Serverless Framework](https://serverless.zone/graphql-with-the-serverless-framework-79924829a8ca)
+* [A Serverless Blog leveraging GraphQL to offer a REST API with only 1 endpoint using Serverless v0.5](https://github.com/serverless/serverless-graphql-blog)
+* [GraphQL for Elm](https://github.com/jahewson/elm-graphql)
+* 
+
 ## General
 
 * [General Info](general.md)
