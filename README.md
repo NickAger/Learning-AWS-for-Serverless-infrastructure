@@ -11,3 +11,9 @@
 
 # Elm
 * [Uploading to S3 from Elm](http://simonh1000.github.io/2016/12/elm-s3-uploads/)
+
+## bottom-up choreography vs top-down orchestration
+> we’re inherently capitalizing on one of the advantages that microservices architectures bring: bottom-up choreography among software modules is much easier to manage than top-down orchestration.
+
+> we should apply best practices from distributed systems. For example, it’s better to avoid synchronous transactions across multiple resources, which are difficult and slow to manage, and design each function to work independently (thanks to event subscriptions) with eventual consistency of data.
+ 
