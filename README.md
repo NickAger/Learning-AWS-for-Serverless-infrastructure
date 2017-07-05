@@ -9,6 +9,7 @@
 * [Running Haskell code on AWS Lambda](https://github.com/abailly/aws-lambda-haskell)
 * [Haskell on AWS Lambda](https://www.agileand.me/haskell-aws-lambda/)
 * [Qmuli - Serverless framework for Haskell](https://github.com/qmuli/qmuli/)
+* [Haskell EDSL and type-checker for AWS CloudFormation templates](https://github.com/frontrowed/stratosphere)
 
 # GraphQL
 
