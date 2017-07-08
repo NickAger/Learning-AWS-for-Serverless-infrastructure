@@ -19,7 +19,9 @@ See also [associated wiki](https://github.com/NickAger/LearningAWS/wiki)
 * [GraphQL with the Serverless Framework](https://serverless.zone/graphql-with-the-serverless-framework-79924829a8ca)
 * [A Serverless Blog leveraging GraphQL to offer a REST API with only 1 endpoint using Serverless v0.5](https://github.com/serverless/serverless-graphql-blog)
 * [GraphQL for Elm](https://github.com/jahewson/elm-graphql)
-* 
+
+## SQL and no-SQL
+* [why you probably shouldn't use DynamoDB](https://syslog.ravelin.com/you-probably-shouldnt-use-dynamodb-89143c1287ca) and hacker news [discussion](https://news.ycombinator.com/item?id=14721920)
 
 ## General
 
