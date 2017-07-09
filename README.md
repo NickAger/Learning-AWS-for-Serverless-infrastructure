@@ -5,6 +5,7 @@ See also [associated wiki](https://github.com/NickAger/LearningAWS/wiki)
 * [serverless.com](http://www.serverless.com)
 * [5 AWS mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
 * [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action)
+* [Amazon Web Serices in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
 
 # Haskell
 * [Deploying Haskell on AWS Lambda](http://www.alfredodinapoli.com/posts/2017-03-16-deploying-haskell-on-aws-lambda.html)
