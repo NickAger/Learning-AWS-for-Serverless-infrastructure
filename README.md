@@ -6,6 +6,10 @@ See also [associated wiki](https://github.com/NickAger/LearningAWS/wiki)
 * [5 AWS mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
 * [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action)
 * [Amazon Web Serices in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
+* [Udemy](https://www.udemy.com/aws-certified-solutions-architect-associate)
+* [A Cloud guru](https://acloud.guru)
+* [https://reddit.com/r/amazonwebservices](https://reddit.com/r/amazonwebservices)
+* [A cloud guru youTube channel](https://www.youtube.com/channel/UCp8lLM2JP_1pv6E0NQ38pqw)
 
 # Haskell
 * [Deploying Haskell on AWS Lambda](http://www.alfredodinapoli.com/posts/2017-03-16-deploying-haskell-on-aws-lambda.html)
