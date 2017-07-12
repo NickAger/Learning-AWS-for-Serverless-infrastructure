@@ -2,7 +2,7 @@ See also [associated wiki](https://github.com/NickAger/LearningAWS/wiki)
 
 # LearningAWS for Serverless infrastructure
 
-* [Build your first Serverless Web Application](https://aws.amazon.com/serverless/build-a-web-app/) [hacker news discussion](https://news.ycombinator.com/item?id=14740971)
+* [Build your first Serverless Web Application](https://aws.amazon.com/serverless/build-a-web-app/), associated [hacker news discussion](https://news.ycombinator.com/item?id=14740971)
 * [serverless.com](http://www.serverless.com)
 * [5 AWS mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
 * [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action)
