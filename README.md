@@ -11,6 +11,7 @@ See also [associated wiki](https://github.com/NickAger/LearningAWS/wiki)
 * [A Cloud guru](https://acloud.guru)
 * [https://reddit.com/r/amazonwebservices](https://reddit.com/r/amazonwebservices)
 * [A cloud guru youTube channel](https://www.youtube.com/channel/UCp8lLM2JP_1pv6E0NQ38pqw)
+* [AWS Tips I Wish I'd Known Before I Started](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
 
 # Haskell
 * [Deploying Haskell on AWS Lambda](http://www.alfredodinapoli.com/posts/2017-03-16-deploying-haskell-on-aws-lambda.html)
