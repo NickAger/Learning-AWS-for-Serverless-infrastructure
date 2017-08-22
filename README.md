@@ -12,6 +12,9 @@ See also [associated wiki](https://github.com/NickAger/LearningAWS/wiki)
 * [A cloud guru youTube channel](https://www.youtube.com/channel/UCp8lLM2JP_1pv6E0NQ38pqw)
 * [AWS Tips I Wish I'd Known Before I Started](https://wblinks.com/notes/aws-tips-i-wish-id-known-before-i-started/)
 
+# Cognito
+* [User Authentication For Web And iOS Apps With AWS Cognito (Part 1)](https://www.smashingmagazine.com/2017/08/user-authentication-web-ios-apps-aws-cognito-part-1/)
+
 # Haskell
 * [Deploying Haskell on AWS Lambda](http://www.alfredodinapoli.com/posts/2017-03-16-deploying-haskell-on-aws-lambda.html)
 * [Running Haskell code on AWS Lambda](https://github.com/abailly/aws-lambda-haskell)
