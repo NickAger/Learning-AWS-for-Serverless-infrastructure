@@ -14,6 +14,7 @@ See also [associated wiki](https://github.com/NickAger/LearningAWS/wiki)
 
 # Cognito
 * [User Authentication For Web And iOS Apps With AWS Cognito (Part 1)](https://www.smashingmagazine.com/2017/08/user-authentication-web-ios-apps-aws-cognito-part-1/)
+* [User Management with AWS Cognito — (1/3) Initial Setup](https://medium.com/@kangzeroo/user-management-with-aws-cognito-1-3-initial-setup-a1a692a657b3)
 
 # Haskell
 * [Deploying Haskell on AWS Lambda](http://www.alfredodinapoli.com/posts/2017-03-16-deploying-haskell-on-aws-lambda.html)
