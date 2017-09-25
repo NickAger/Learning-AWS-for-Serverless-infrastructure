@@ -26,6 +26,11 @@ See also [associated wiki](https://github.com/NickAger/LearningAWS/wiki)
 * [Fugue - Jasper Van der Jeugt works here](https://fugue.co) - https://skillsmatter.com/skillscasts/9879-an-informal-guide-to-better-compiler-errors-jasper-van-der-jeugt
 * [Terraform](https://www.terraform.io) - recommended by [fp complete(https://www.fpcomplete.com/blog/2017/08/credstash) - "There are a number of tools that are used for automatic deployment on AWS. Terraform, being one of them, stands out as an amazing tool that allows you to describe your infrastructure as code. It works not just with AWS, but with many other providers". [Why we use Terraform and not Chef, Puppet, Ansible, SaltStack, or CloudFormation](https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c)
 
+# Writing the plumbing with code
+* (Javascript) https://stdlib.com - "The Standard Library for Functions as a Service. Discover pre-built APIs, compose your own, build apps, and move your business faster than ever with new "server-less" technology."
+* (Javascript) https://github.com/faaslang/faaslang/ - "FaaSlang defines FaaS execution semantics and type-safety mechanisms"
+ 
+
 # GraphQL
 
 * [GraphQL with the Serverless Framework](https://serverless.zone/graphql-with-the-serverless-framework-79924829a8ca)
