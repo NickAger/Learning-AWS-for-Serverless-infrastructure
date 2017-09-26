@@ -2,6 +2,7 @@ See also [associated wiki](https://github.com/NickAger/LearningAWS/wiki)
 
 # LearningAWS for Serverless infrastructure
 
+* [Creating AWS Accounts From The Command Line With AWS Organizations](https://alestic.com/2017/09/aws-organizations-cli/) - " create new AWS accounts at the slightest provocation. They don’t cost anything as long as you aren’t using resources, and they are a nice way to keep unrelated projects separate for security, cost monitoring, and just keeping track of what resources belong where. I will create an AWS account for a new, independent, side project. I will create an account for a weekend hackathon to keep that mess away from anything else I care about. I will even create an account just to test a series of AWS commands for a blog post, making sure that I am not depending on some earlier configurations that might not be in readers’ accounts."
 * [Build your first Serverless Web Application](https://aws.amazon.com/serverless/build-a-web-app/), associated [hacker news discussion](https://news.ycombinator.com/item?id=14740971)
 * [serverless.com](http://www.serverless.com)
 * [5 AWS mistakes you should avoid](https://cloudonaut.io/5-aws-mistakes-you-should-avoid/)
