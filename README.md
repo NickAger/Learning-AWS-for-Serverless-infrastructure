@@ -30,6 +30,9 @@ See also [associated wiki](https://github.com/NickAger/LearningAWS/wiki)
 * (Javascript) https://stdlib.com - "The Standard Library for Functions as a Service. Discover pre-built APIs, compose your own, build apps, and move your business faster than ever with new "server-less" technology."
 * (Javascript) https://github.com/faaslang/faaslang/ - "FaaSlang defines FaaS execution semantics and type-safety mechanisms"
  
+# Hacking Serverless Runtimes Profiling Lambda, Azure, and more
+* https://www.blackhat.com/docs/us-17/wednesday/us-17-Krug-Hacking-Severless-Runtimes.pdf
+* Serverless is the hope that there environments are: **More secure than your own servers.**
 
 # GraphQL
 
