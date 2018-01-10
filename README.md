@@ -19,6 +19,8 @@ See also [associated wiki](https://github.com/NickAger/LearningAWS/wiki)
 * [Cognito User Pool vs Identity Pool](https://serverless-stack.com/chapters/cognito-user-pool-vs-identity-pool.html)
 
 # Haskell
+or consider using Purescript in AWS lambda.
+
 * [AWS via Haskell Part 5 (Lambda)](http://blog.rcook.org/blog/2017/aws-via-haskell-lambda/)
 * [Deploying Haskell on AWS Lambda](http://www.alfredodinapoli.com/posts/2017-03-16-deploying-haskell-on-aws-lambda.html)
 * [Running Haskell code on AWS Lambda](https://github.com/abailly/aws-lambda-haskell)
